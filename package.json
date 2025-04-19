@@ -2,12 +2,12 @@
   "name": "userservice",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "testdgd": "echo \"Error: no test specified\" && exit 1",
     "test": "jest --detectOpenHandles",
-    "dev": "nodemon server.js",
-    "start": "node server.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
