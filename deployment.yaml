@@ -16,7 +16,7 @@ spec:
     spec: 
      containers:
       - name: userservice
-        image: it21144462/ctse_user_service
+        image: tharusha19/ctse_user_service
         ports:
         - containerPort: 4000
         env:   
